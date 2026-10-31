@@ -25,6 +25,7 @@ If Debian is not listed, run:
 
 ```powershell
 wsl --list --quiet
+wsl --install -d Debian
 ```
 
 Use the name shown in the output and run:
